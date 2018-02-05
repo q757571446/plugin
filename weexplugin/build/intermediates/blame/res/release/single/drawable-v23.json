@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

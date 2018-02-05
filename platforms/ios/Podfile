@@ -1,0 +1,24 @@
+source 'git@github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+#inhibit_all_warnings!
+
+def common
+    	pod 'WeexMapcomponent', '0.0.1'
+	pod 'GetuiPush', '0.0.1'
+pod 'WeexSDK', 		'~> 0.17.0'
+    pod 'Weexplugin', :path=>'./Weexplugin/'
+    pod 'WeexPluginLoader'
+    pod 'WeexGcanvas',  '0.0.3.5'
+    pod 'GCanvas', 		'0.0.7'
+    pod 'WXDevtool'
+    pod 'SDWebImage', '3.7.5'
+    pod 'SocketRocket', '0.4.2'
+end
+
+target 'WeexDemo' do
+    common
+end
+
+target 'WeexUITestDemo' do
+    common
+end

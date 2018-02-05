@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/mis_folder_text_color.xml",
+        "source": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.nat/media-image/1.1.1/res/color/mis_folder_text_color.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/mis_default_text_color.xml",
+        "source": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.nat/media-image/1.1.1/res/color/mis_default_text_color.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/mis_folder_text_color.xml",
+        "source": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.nat/media-image/1.1.1/res/color/mis_folder_text_color.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/mis_default_text_color.xml",
+        "source": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.nat/media-image/1.1.1/res/color/mis_default_text_color.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_material_dark.xml"
+    }
+]

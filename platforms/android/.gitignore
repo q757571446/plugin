@@ -1,0 +1,9 @@
+.gradle
+.idea
+local.properties
+*iml
+build
+captures
+.settings
+.project
+app/src/main/assets/dist

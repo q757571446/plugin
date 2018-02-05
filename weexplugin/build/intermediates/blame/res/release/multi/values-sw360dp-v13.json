@@ -1,0 +1,126 @@
+[
+    {
+        "outputFile": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.nat/media-image/1.1.1/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 45,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.nat/media-image/1.1.1/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 45,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 44,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "/Users/kevinhao/Desktop/隆电/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.nat/media-image/1.1.1/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 44,
+                        "endOffset": 194
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.nat/media-image/1.1.1/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 45,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.nat/media-image/1.1.1/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 45,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 44,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "/Users/kevinhao/WorkSpace/mobi-end/hybrid/elegant-live/erector-admin/platforms/android/weexplugin/build/intermediates/exploded-aar/com.nat/media-image/1.1.1/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 44,
+                        "endOffset": 194
+                    }
+                }
+            }
+        ]
+    }
+]
